@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Profile website 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Profile is a personal website built using React.js that showcases an individual's name, profession, photo, and contact information. It features a clean layout, responsive design, and fast performance. Ideal for developers, designers, or freelancers, it highlights your skills and bio in a modern single-page interface. Easy to customize and deploy.
 
 ## Available Scripts
 
