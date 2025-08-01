@@ -2,6 +2,11 @@
 
 Profile is a personal website built using React.js that showcases an individual's name, profession, photo, and contact information. It features a clean layout, responsive design, and fast performance. Ideal for developers, designers, or freelancers, it highlights your skills and bio in a modern single-page interface. Easy to customize and deploy.
 
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live website](https://react-profile-blush.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
